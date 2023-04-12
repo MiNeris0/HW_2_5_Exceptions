@@ -20,28 +20,31 @@ namespace LoggerExceptions
             };
         }
 
-        public Result MethodWarning()
+        public void MethodWarning()
         {
             string message = "Skipped logic in method: MethodWarning()";
-            Logger.Instance.Log(new LogRecord { Type = LogType.Warning, Message = message });
 
-            return new Result
+            try
             {
-                Status = true,
-                Message = message
-            };
+                throw new BusinessException(message);
+            }
+            catch
+            {
+                Logger.Instance.Log(new LogRecord { Type = LogType.Warning, Message = "Action got this custom Exception :" + message });
+            }
         }
 
-        public Result MethodError()
+        public void MethodError()
         {
-            string message = "I broke a logic";
-            Logger.Instance.Log(new LogRecord { Type = LogType.Error, Message = message });
-
-            return new Result
+            try
             {
-                Status = false,
-                Message = message
-            };
+                throw new Exception("I broke a logic.");
+            }
+            catch (Exception ex)
+            {
+                string message = "Action failed by a reason: Exception occurred in MethodError(): " + ex.Message;
+                Logger.Instance.Log(new LogRecord { Type = LogType.Error, Message = message });
+            }
         }
     }
 }

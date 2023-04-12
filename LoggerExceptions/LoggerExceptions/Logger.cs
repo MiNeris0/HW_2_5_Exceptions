@@ -47,7 +47,7 @@ namespace LoggerExceptions
 
         private string GetStringText(LogRecord record)
         {
-            return $"{record.Date.ToLongDateString()}: {record.Type}: {record.Message}";
+            return $"{record.Date.ToLongTimeString()} {record.Date.ToShortDateString()}: {record.Type}: {record.Message}";
         }
     }
 }
