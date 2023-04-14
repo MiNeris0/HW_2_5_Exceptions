@@ -28,9 +28,9 @@ namespace LoggerExceptions
                         actions.MethodError();
                         break;
                 }
-
-                File.WriteAllText("log.txt", Logger.Instance.GetText());
             }
+
+            Logger.Instance.WriteLogs();
         }
     }
 }

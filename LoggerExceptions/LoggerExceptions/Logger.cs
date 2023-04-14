@@ -28,7 +28,6 @@ namespace LoggerExceptions
             _index++;
 
             var temp = GetStringText(record);
-            FileService.WriteAllInFile(temp);
         }
 
         public LogRecord[] GetRecord()
@@ -46,6 +45,11 @@ namespace LoggerExceptions
             }
 
             return sb.ToString();
+        }
+
+        public void WriteLogs()
+        {
+            FileService.WriteAllInFile(_record);
         }
 
         private string GetStringText(LogRecord record)
