@@ -26,6 +26,9 @@ namespace LoggerExceptions
             _record[_index] = record;
 
             _index++;
+
+            var temp = GetStringText(record);
+            FileService.WriteAllInFile(temp);
         }
 
         public LogRecord[] GetRecord()

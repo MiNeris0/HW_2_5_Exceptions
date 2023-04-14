@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoggerExceptions": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\C#\\A-level_C#\\Projects\\HW_2_5_Exceptions\\LoggerExceptions"
+    }
+  }
+}

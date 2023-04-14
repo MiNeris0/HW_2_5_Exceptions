@@ -10,6 +10,7 @@ namespace LoggerExceptions
     {
         public static void Run()
         {
+            FileService.Run();
             for (int i = 0; i < 100; i++)
             {
                 Actions actions = new Actions();
