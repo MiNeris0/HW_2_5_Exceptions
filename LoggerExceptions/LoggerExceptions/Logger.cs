@@ -26,6 +26,8 @@ namespace LoggerExceptions
             _record[_index] = record;
 
             _index++;
+
+            var temp = GetStringText(record);
         }
 
         public LogRecord[] GetRecord()
@@ -45,9 +47,14 @@ namespace LoggerExceptions
             return sb.ToString();
         }
 
+        public void WriteLogs()
+        {
+            FileService.WriteAllInFile(_record);
+        }
+
         private string GetStringText(LogRecord record)
         {
-            return $"{record.Date.ToLongDateString()}: {record.Type}: {record.Message}";
+            return $"{record.Date.ToLongTimeString()} {record.Date.ToShortDateString()}: {record.Type}: {record.Message}";
         }
     }
 }

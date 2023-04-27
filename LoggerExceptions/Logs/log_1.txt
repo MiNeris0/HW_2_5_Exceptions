@@ -1,0 +1,100 @@
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Info: Start method: MethodInfo()
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:11 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:12 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:12 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:12 15.04.2023: Info: Start method: MethodInfo()
+1:35:12 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:12 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:12 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
+1:35:12 15.04.2023: Error: Action failed by a reason: Exception occurred in MethodError(): I broke a logic.
+1:35:12 15.04.2023: Warning: Action got this custom Exception :Skipped logic in method: MethodWarning()
